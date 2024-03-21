@@ -66,7 +66,6 @@ en:
         cy: Cyprus
         cz: "Czech Republic"
         de: Germany
-        de-at: undefined
         dj: Djibouti
         dk: Denmark
         dm: Dominica
@@ -86,13 +85,8 @@ en:
         fm: "Micronesia, Federated States of"
         fo: "Faroe Islands"
         fr: France
-        fr-br: undefined
         ga: Gabon
         gb: "United Kingdom"
-        gb-eng: England
-        gb-nir: "Northern Ireland"
-        gb-sct: Scotland
-        gb-wls: Wales
         gd: Grenada
         ge: Georgia
         gf: "French Guiana"
@@ -251,7 +245,6 @@ en:
         um: "US Minor Outlying Islands"
         un: "United Nations"
         us: "United States"
-        us-at: undefined
         uy: Uruguay
         uz: Uzbekistan
         va: "Holy See (Vatican City State)"

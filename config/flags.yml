@@ -56,7 +56,6 @@ cx: cx.png
 cy: cy.png
 cz: cz.png
 de: de.png
-de-at: de-at.png
 dj: dj.png
 dk: dk.png
 dm: dm.png
@@ -76,12 +75,7 @@ fk: fk.png
 fm: fm.png
 fo: fo.png
 fr: fr.png
-fr-br: fr-br.png
 ga: ga.png
-gb-eng: gb-eng.png
-gb-nir: gb-nir.png
-gb-sct: gb-sct.png
-gb-wls: gb-wls.png
 gb: gb.png
 gd: gd.png
 ge: ge.png
@@ -240,7 +234,6 @@ ug: ug.png
 um: um.png
 un: un.png
 us: us.png
-us-at: us-at.png
 uy: uy.png
 uz: uz.png
 va: va.png
