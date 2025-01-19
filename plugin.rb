@@ -47,12 +47,12 @@ after_initialize do
   register_editable_user_custom_field :nationalflag_iso if defined? register_editable_user_custom_field
   
   if SiteSetting.nationalflag_enabled then
-    add_to_serializer(:post, :user_signature, false) {
+    add_to_serializer(:post, :user_signature, respect_plugin_enabled: false) {
       object.user.custom_fields['nationalflag_iso']
     }
 
     # I guess this should be the default @ discourse. PR maybe?
-    add_to_serializer(:user, :custom_fields, false) {
+    add_to_serializer(:user, :custom_fields, respect_plugin_enabled: false) {
       if object.custom_fields == nil then
         {}
       else
